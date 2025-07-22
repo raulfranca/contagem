@@ -1,0 +1,6 @@
+{
+  "name": "Contador de Dias Letivos 2025",
+  "description": "Uma aplicação para fazer a contagem regressiva dos dias letivos restantes no ano de 2025, ajudando professores e alunos a visualizar o tempo que falta para o final do ano escolar.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

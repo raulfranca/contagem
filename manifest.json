@@ -1,0 +1,23 @@
+{
+  "short_name": "Dias Letivos",
+  "name": "Contador de Dias Letivos 2025",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "description": "Contagem regressiva dos dias letivos restantes no ano de 2025."
+}
